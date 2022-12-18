@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6ec1371b96897564e9e65dd2d1a6a068
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cannoball: {fileID: 6703507361672089557, guid: fd68f1b6af831b345a4829915eb6ee0f, type: 3}
+  - gameOverText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
